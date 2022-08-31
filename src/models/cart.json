@@ -1,0 +1,18 @@
+[
+    {
+        "products": [
+            {
+                "title": "Bolso",
+                "description": "bolso de mujer",
+                "code": "bolsomujer1",
+                "price": "10000",
+                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/bolso.png?alt=media&token=f60cbca6-db5c-40f9-ae5a-b00ac1778a09",
+                "stock": "true",
+                "timestamp": 1661976841960,
+                "id": 1
+            }
+        ],
+        "timestamp": 1661979888147,
+        "id": 1
+    }
+]
