@@ -1,0 +1,92 @@
+[
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Camisa Polo",
+        "descripcion": "descripcion del producto",
+        "codigo": 1,
+        "stock": 100,
+        "precio": 4000,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/camisapolo.png?alt=media&token=ec7fc816-0bb8-4abf-bcbd-3ef36c61c1a2",
+        "id": 1
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Bufanda",
+        "descripcion": "descripcion del producto",
+        "codigo": 2,
+        "stock": 100,
+        "precio": 600,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/bufanda.png?alt=media&token=088f8c1f-66af-4d25-b3b3-4ee3d0a013c9",
+        "id": 2
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Bolso",
+        "descripcion": "descripcion del producto",
+        "codigo": 3,
+        "stock": 100,
+        "precio": 3500,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/bolso.png?alt=media&token=f60cbca6-db5c-40f9-ae5a-b00ac1778a09",
+        "id": 3
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Calcetin",
+        "descripcion": "descripcion del producto",
+        "codigo": 4,
+        "stock": 100,
+        "precio": 150,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/calcetin.png?alt=media&token=3b770faf-a460-4a54-b0bb-53895e6905a4",
+        "id": 4
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Cinturon",
+        "descripcion": "descripcion del producto",
+        "codigo": 5,
+        "stock": 100,
+        "precio": 500,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/cinturon.png?alt=media&token=e416e186-a940-486b-9e2b-ee66e6db68cb",
+        "id": 5
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Crocs",
+        "descripcion": "descripcion del producto",
+        "codigo": 6,
+        "stock": 100,
+        "precio": 5000,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/crocs.png?alt=media&token=063fd939-47cb-434f-8d25-1606248e177c",
+        "id": 6
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Remera",
+        "descripcion": "descripcion del producto",
+        "codigo": 7,
+        "stock": 100,
+        "precio": 1200,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/remera.png?alt=media&token=26189072-e99a-42e7-8b5e-c67d02284162",
+        "id": 7
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Zapato Mujer",
+        "descripcion": "descripcion del producto",
+        "codigo": 8,
+        "stock": 100,
+        "precio": 4000,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/zapato_mujer.png?alt=media&token=e43f88fa-0f02-4b28-a6f4-6c5a0ddaec84",
+        "id": 8
+    },
+    {
+        "timestamp": "Mon Sep 12 2022",
+        "nombre": "Parka",
+        "descripcion": "descripcion del producto",
+        "codigo": 9,
+        "stock": 100,
+        "precio": 3800,
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/bonadrinks.appspot.com/o/parka.png?alt=media&token=0c52e8cb-876e-4b87-a15a-85415caa0246",
+        "id": 9
+    }
+]
