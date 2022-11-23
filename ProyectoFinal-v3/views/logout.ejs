@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Log out</title>
+</head>
+<body>
+    <nav class="shadow">
+        <div class="mx-auto w-screen px-2 sm:px-6 lg:px-8">
+            <div class="relative flex h-16 items-center justify-between">
+                <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+                    <div class="flex flex-shrink-0 items-center">
+                        <img class="block h-8 w-auto lg:hidden"
+                            src="https://react-proyect-bonasegla.vercel.app/static/media/logoBonaDrinks.ee08d7fcebaa9123ac0c.png" alt="Your Company">
+                        <img class="hidden h-8 w-auto lg:block"
+                            src="https://react-proyect-bonasegla.vercel.app/static/media/logoBonaDrinks.ee08d7fcebaa9123ac0c.png" alt="Your Company">
+                    </div>
+                    <div class="hidden sm:ml-6 sm:block">
+                        <div class="flex space-x-4">
+                            <a href="/" class="hover:bg-gray-700 hover:text-white  px-3 py-2 rounded-md text-sm font-medium"
+                                aria-current="page">Inicio</a>
+
+                            <a href="/products"
+                                class="hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Productos</a>
+
+                            <a href="/cart"
+                                class="hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Carrito</a>
+                                                            
+                            <a href="/profile"
+                            class="hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Perfil</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="flex-col w-96 mt-20 mx-auto justify-center">
+        <h1 class="text-center text-3xl font-semibold">Logged out <%= username %></h1>
+        <a href="/" class="ml-auto mt-6 bg-blue-500 text-white px-3 py-2 rounded-md text-sm font-medium">Log in</a>
+    </div>
+</body>
+</html>

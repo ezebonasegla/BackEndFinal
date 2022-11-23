@@ -9,7 +9,7 @@ const CarritoDAOArchivo = require('./carrito/CarritoDAOArchivo');
 
 const getStorage = () => {
 
-    const storage = 'firebase';
+    const storage = 'mongodb';
 
     if (storage === 'firebase') {
         return {
